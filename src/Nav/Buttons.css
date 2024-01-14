@@ -1,0 +1,12 @@
+a{
+    text-decoration: none;
+    font-size: large;
+    padding: 5px;
+    margin: 8px;
+    
+    color: white;
+}
+
+a:hover{
+    color:blue;
+}

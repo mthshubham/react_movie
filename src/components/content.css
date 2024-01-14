@@ -1,0 +1,29 @@
+.content{
+    width: 350px;
+    height:500px;
+    /* border: 2px solid blue; */
+    background-color: rgb(33, 33, 33);
+    margin-top: 10px;
+    border-radius: 5px;
+    color:white;
+}
+
+.content img{
+    margin-top: 12px;
+    max-width: 340px;
+    height: 300px;
+}
+
+.content a{
+    font-size: large;
+    padding: 2px 15px;
+    border-radius: 4px;
+    background-color: white;
+    outline:2px solid white;
+    font-weight: 600;
+    color:blueviolet
+}
+.content a:hover{
+    background-color: blueviolet;
+    color: white;
+}
